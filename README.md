@@ -5,6 +5,14 @@
 ## Project Overview
 This project showcases my expertise in data analysis and visualization using Power BI. I developed an interactive ecommerce dashboard that enables real-time tracking of sales, customer behavior, and profitability. The dashboard is designed for business users to gain actionable insights through dynamic visuals and user-driven filters.
 
+## Data Sources
+This project is built on real-world-style ecommerce data, using the following datasets:
+
+- **Details.csv:** Contains detailed records of individual transactions, including product, category, sub-category, payment mode, and customer information.
+- **Orders.csv:** Includes order-level data such as order ID, date, customer, and region.
+
+These datasets were used for data modeling, KPI calculation, and generating actionable business insights in the dashboard.
+
 ## My Key Skills Demonstrated
 - Advanced data visualization and dashboard design in Power BI
 - Data modeling and transformation using Power Query
