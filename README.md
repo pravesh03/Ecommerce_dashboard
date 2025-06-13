@@ -1,6 +1,7 @@
+# Ecommerce Analytics Dashboard – Power BI
+
 ![Ecommerce Dashboard Screenshot](Ecommerce_dashboard.png)
 
-# Ecommerce Analytics Dashboard – Power BI
 
 ## Project Overview
 This project showcases my expertise in data analysis and visualization using Power BI. I developed an interactive ecommerce dashboard that enables real-time tracking of sales, customer behavior, and profitability. The dashboard is designed for business users to gain actionable insights through dynamic visuals and user-driven filters.
